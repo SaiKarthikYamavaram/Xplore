@@ -1,6 +1,8 @@
 # **_XPLORE_** 🔥 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![react-native](https://img.shields.io/badge/react--native-0.62.2-blue)](https://img.shields.io/badge/react--native-0.62.2-blue)
+
 Aa react-Native based Image explorer App using Unsplash API
-![Splash Screen](SplashScreen.jpg)
+![Splash Screen](https://github.com/SaiKarthikYamavaram/Xplore/blob/master/Screenshots/SplashScreen.jpg)
+
 # Getting Started 🚀
 
 These instructions are for Seting up Project and Running it on your Local Machine
