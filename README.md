@@ -2,7 +2,7 @@
 
 Aa react-Native based Image explorer App using Unsplash API
 
-<img src="https://github.com/SaiKarthikYamavaram/Xplore/blob/master/Screenshots/SplashScreen.jpg" height="400" width="250"  ><br>
+<img src="https://github.com/SaiKarthikYamavaram/Xplore/blob/master/Screenshots/SplashScreen.jpg" height="450" width="250"  ><br>
 
 # Getting Started 🚀
 
