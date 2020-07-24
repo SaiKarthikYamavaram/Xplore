@@ -118,7 +118,7 @@ export default class App extends Component {
       response = await axios.get('https://api.unsplash.com/photos/random', {
         headers: {
           Authorization:
-            'Client-ID jyj0jF2JBMq8IvBGME1XlunNj4Akg7m9Tbcj_rUeZdY',
+            'Client-ID KG3JB6gQQy3p-JIDG2CijXvCTp_Ztu7WMGPp6MdN3AA',
         },
         params: {
           page: this.state.pageNo,
