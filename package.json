@@ -13,7 +13,7 @@
   "dependencies": {
     "@react-native-community/cameraroll": "^1.7.2",
     "@react-native-community/netinfo": "^5.9.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo-linear-gradient": "^8.1.0",
     "lodash": "4.17.19",
     "react": "16.11.0",
